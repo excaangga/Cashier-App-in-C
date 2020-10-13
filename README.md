@@ -1,0 +1,3 @@
+# Cashier-App-in-C
+This is a simplified cashier app made in C.
+Happy coding :D...
